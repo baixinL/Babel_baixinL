@@ -1,0 +1,23 @@
+{
+  "name": "babel_baixinl",
+  "version": "0.0.1",
+  "description": "babelb本地构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baixinL/Babel_baixinL.git"
+  },
+  "keywords": [
+    "Babel",
+    "baixinL"
+  ],
+  "author": "baixinL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baixinL/Babel_baixinL/issues"
+  },
+  "homepage": "https://github.com/baixinL/Babel_baixinL#readme"
+}
